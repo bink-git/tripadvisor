@@ -2,7 +2,7 @@ import React from "react";
 
 const PlaceDetails = () => {
   return (
-    <h1>Header</h1>
+    <h1>PlaceDetails</h1>
   );
 }
 
